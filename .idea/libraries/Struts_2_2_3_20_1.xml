@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Struts 2-2.3.20.1" type="struts2">
+    <properties version="2.3.20.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WebTestProject/lib/ognl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebTestProject/lib/commons-fileupload.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebTestProject/lib/xwork-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebTestProject/lib/commons-lang.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebTestProject/lib/commons-io.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebTestProject/lib/asm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebTestProject/lib/asm-commons.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebTestProject/lib/asm-tree.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebTestProject/lib/struts2-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebTestProject/lib/freemarker.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebTestProject/lib/javassist.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
