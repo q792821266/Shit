@@ -17,5 +17,9 @@
             <exception-mapping exception="java.lang.Exception" result="error"></exception-mapping>
         </global-exception-mappings>
         
+        <action name="begin" class="action.say" method="say">
+            <result name="success">WEB-INF/jsp/js_jsp/js.jsp</result>
+        </action>
+        
     </package>
 </struts>

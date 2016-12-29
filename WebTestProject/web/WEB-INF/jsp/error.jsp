@@ -11,6 +11,6 @@
     <title>我们遇到了一个错误~</title>
 </head>
 <body>
-不小心触发了一个错误，自己看着办吧。
+不小心触发了一个错误，自己看着办吧。trouble !~trouble !~trouble !~
 </body>
 </html>
